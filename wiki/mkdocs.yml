@@ -1,0 +1,26 @@
+site_name: My Docs
+pages:
+  - Introdution: index.md
+  - Lesson 1: algorithm.md 
+  - Lesson 2: building_block.md
+  - Lesson 3: final_look.md
+  - Lesson 4: js_basic.md
+  - Lesson 5: canvas_basic.md
+  - Lesson 6: js_game.md
+  - Lesson 7: conclusion.md
+theme: 'material'
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde   
