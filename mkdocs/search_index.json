@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Introdction",
+            "title": "Introdution"
+        },
+        {
+            "location": "/#introdction",
+            "text": "",
+            "title": "Introdction"
+        },
+        {
+            "location": "/algorithm/",
+            "text": "Total 9 Steps\n\n\n\n\nHTM5 building blocks\n\n\nDraft/Outline of the app - skeletons of the toolbar, drawing aream tools etc.\n\n\n\n\n\n\nDesign the app\n\n\nColoring, aligning, changing propertied of elements\n\n\n\n\n\n\nSet initial conditions\n\n\nGet canvas element & set basic conditions,\n\n\n\n\n\n\nMake the brush work\n\n\nMost important & biggest part\n\n\nConditions for mouse downm drag and up when brush is active\n\n\nMake sure brush is active when app loads\n\n\n\n\n\n\nMake the eraser work\n\n\nChange color of brush from current color to white - get the illusion of an eraser\n\n\n\n\n\n\nColor change conditions\n\n\nApply original color input's color (yellow) to brush.\n\n\nSet condition to change color of brush when input's color changes\n\n\n\n\n\n\nSize change conditions\n\n\nApply original size range's size (5px) to brush.\n\n\nSet condition to change size of brush when range's size changes.\n\n\n\n\n\n\nMake reset work\n\n\nVreate function that reloads page when reset button is clicked\n\n\n\n\n\n\nMake save work\n\n\nSave button click condition\n\n\nTake screenshot of canvasm display png ing of the screenshot.",
+            "title": "Lesson 1"
+        },
+        {
+            "location": "/algorithm/#total-9-steps",
+            "text": "HTM5 building blocks  Draft/Outline of the app - skeletons of the toolbar, drawing aream tools etc.    Design the app  Coloring, aligning, changing propertied of elements    Set initial conditions  Get canvas element & set basic conditions,    Make the brush work  Most important & biggest part  Conditions for mouse downm drag and up when brush is active  Make sure brush is active when app loads    Make the eraser work  Change color of brush from current color to white - get the illusion of an eraser    Color change conditions  Apply original color input's color (yellow) to brush.  Set condition to change color of brush when input's color changes    Size change conditions  Apply original size range's size (5px) to brush.  Set condition to change size of brush when range's size changes.    Make reset work  Vreate function that reloads page when reset button is clicked    Make save work  Save button click condition  Take screenshot of canvasm display png ing of the screenshot.",
+            "title": "Total 9 Steps"
+        },
+        {
+            "location": "/building_block/",
+            "text": "",
+            "title": "Lesson 2"
+        },
+        {
+            "location": "/final_look/",
+            "text": "",
+            "title": "Lesson 3"
+        },
+        {
+            "location": "/js_basic/",
+            "text": "",
+            "title": "Lesson 4"
+        },
+        {
+            "location": "/canvas_basic/",
+            "text": "",
+            "title": "Lesson 5"
+        },
+        {
+            "location": "/js_game/",
+            "text": "",
+            "title": "Lesson 6"
+        },
+        {
+            "location": "/conclusion/",
+            "text": "",
+            "title": "Lesson 7"
+        }
+    ]
+}
