@@ -1,0 +1,13 @@
+* {
+    -moz-box-sizing: border-box;
+    /* Firefox*/
+    -webkit-box-sizing: border-box;
+    /* Chrome & safari */
+    -ms-box-sizing: border-box;
+    /*IE */
+    box-sizing: border-box;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
